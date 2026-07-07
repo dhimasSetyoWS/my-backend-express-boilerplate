@@ -1,6 +1,6 @@
-# Foobar
+# Dhimas Express Backend Boilerplate
 
-Foobar is a Python library for dealing with word pluralization.
+Iseng aja bikin template agar bisa dipakai terus menerus
 
 ## Installation
 
